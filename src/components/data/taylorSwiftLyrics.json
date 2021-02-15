@@ -6,6 +6,7 @@
             {
                 "trackNumber": 1,
                 "trackTitle": "Tim McGraw",
+                "trackLength_S": 232,
                 "lyrics": [
                     "He said the way my blue eyes shined",
                     "Put those Georgia stars to shame that night",
@@ -67,6 +68,7 @@
             {
                 "trackNumber": 2,
                 "trackTitle": "Picture To Burn",
+                "trackLength_S": 172,
                 "lyrics": [
                     "State the obvious, I didn't get my perfect fantasy",
                     "I realize you love yourself more than you could ever love me",
@@ -123,6 +125,7 @@
             {
                 "trackNumber": 3,
                 "trackTitle": "Teardrops On My Guitar",
+                "trackLength_S": 203,
                 "lyrics": [
                     "Drew looks at me",
                     "I fake a smile so he won't see",
@@ -165,6 +168,7 @@
             {
                 "trackNumber": 4,
                 "trackTitle": "A Place In This World",
+                "trackLength_S": 199,
                 "lyrics": [
                     "I don't know what I want, so don't ask me",
                     "Cause I'm still trying to figure it out",
@@ -198,6 +202,7 @@
             {
                 "trackNumber": 5,
                 "trackTitle": "Cold As You",
+                "trackLength_S": 239,
                 "lyrics": [
                     "You have a way of coming easily to me",
                     "And when you take, you take the very best of me",
@@ -228,6 +233,7 @@
             {
                 "trackNumber": 6,
                 "trackTitle": "The Outside",
+                "trackLength_S": 207,
                 "lyrics": [
                     "I didn't know what I would find",
                     "When I went looking for a reason, I know",
@@ -266,6 +272,7 @@
             {
                 "trackNumber": 7,
                 "trackTitle": "Tied Together With A Smile",
+                "trackLength_S": 248,
                 "lyrics": [
                     "Seems the only one who doesn't see your beauty",
                     "Is the face in the mirror looking back at you",
@@ -323,6 +330,7 @@
             {
                 "trackNumber": 8,
                 "trackTitle": "Stay Beautiful",
+                "trackLength_S": 236,
                 "lyrics": [
                     "Cory's eyes are like a jungle",
                     "He smiles, it's like the radio",
@@ -384,6 +392,7 @@
             {
                 "trackNumber": 9,
                 "trackTitle": "Should've Said No",
+                "trackLength_S": 242,
                 "lyrics": [
                     "It's strange to think the songs we used to sing",
                     "The smiles, the flowers, everything is gone",
@@ -431,6 +440,7 @@
             {
                 "trackNumber": 10,
                 "trackTitle": "Mary's Song (Oh My My My)",
+                "trackLength_S": 213,
                 "lyrics": [
                     "She said, I was seven and you were nine",
                     "I looked at you like the stars that shined",
@@ -475,6 +485,7 @@
             {
                 "trackNumber": 11,
                 "trackTitle": "Our Song",
+                "trackLength_S": 201,
                 "lyrics": [
                     "I was riding shotgun with my hair undone",
                     "In the front seat of his car",
@@ -530,6 +541,7 @@
             {
                 "trackNumber": 12,
                 "trackTitle": "I'm Only Me When I'm With You",
+                "trackLength_S": 213,
                 "lyrics": [
                     "Friday night beneath the stars",
                     "In a field behind your yard",
@@ -577,6 +589,7 @@
             {
                 "trackNumber": 13,
                 "trackTitle": "Invisible",
+                "trackLength_S": 203,
                 "lyrics": [
                     "She can't see the way your eyes",
                     "Light up when you smile",
@@ -628,6 +641,7 @@
             {
                 "trackNumber": 14,
                 "trackTitle": "A Perfectly Good Heart",
+                "trackLength_S": 220,
                 "lyrics": [
                     "Why would you wanna break a perfectly good heart?",
                     "Why would you wanna take our love and tear it all apart, now?",
@@ -663,6 +677,7 @@
             {
                 "trackNumber": 1,
                 "trackName": "Fearless",
+                "trackLength_S": 242,
                 "lyrics": [
                     "There's something 'bout the way",
                     "The street looks when it's just rained",
@@ -715,6 +730,7 @@
             {
                 "trackNumber": 2,
                 "trackName": "Fifteen",
+                "trackLength_S": 294,
                 "lyrics": [
                     "You take a deep breath and you walk through the doors",
                     "It's the morning of your very first day",
@@ -769,6 +785,7 @@
             {
                 "trackNumber": 3,
                 "trackName": "Love Story",
+                "trackLength_S": 235,
                 "lyrics": [
                     "We were both young when I first saw you",
                     "I close my eyes, and the flashback starts",
@@ -824,6 +841,7 @@
             {
                 "trackNumber": 4,
                 "trackName": "Hey Stephen",
+                "trackLength_S": 254,
                 "lyrics": [
                     "Hey Stephen, I know looks can be deceiving",
                     "But I know I saw a light in you",
@@ -877,6 +895,7 @@
             {
                 "trackNumber": 5,
                 "trackName": "White Horse",
+                "trackLength_S": 234,
                 "lyrics": [
                     "Say you're sorry, that face of an angel",
                     "Comes out just when you need it to",
@@ -922,6 +941,7 @@
             {
                 "trackNumber": 6,
                 "trackName": "You Belong With Me",
+                "trackLength_S": 231,
                 "lyrics": [
                     "You're on the phone with your girlfriend, she's upset",
                     "She's going off about something that you said",
@@ -977,6 +997,7 @@
             {
                 "trackNumber": 7,
                 "trackName": "Breathe (Ft. Colbie Caillat)",
+                "trackLength_S": 263,
                 "lyrics": [
                     "I see your face in my mind as I drive away",
                     "'Cause none of us thought it was",
@@ -1022,6 +1043,7 @@
             {
                 "trackNumber": 8,
                 "trackName": "Tell Me Why",
+                "trackLength_S": 200,
                 "lyrics": [
                     "I took a chance",
                     "I took a shot",
@@ -1074,8 +1096,9 @@
                 ]
             },
             {
-                "trackNumber": 9,
+                "trackNumber": 261,
                 "trackName": "You're Not Sorry",
+                "trackLength_S": 261,
                 "lyrics": [
                     "All this time I was wasting hoping you would come around",
                     "I've been giving out chances every time and all you do is let me down",
@@ -1118,6 +1141,7 @@
             {
                 "trackNumber": 10,
                 "trackName": "The Way I Loved You",
+                "trackLength_S": 244,
                 "lyrics": [
                     "He is sensible and so incredible",
                     "And all my single friends are jealous",
@@ -1163,6 +1187,7 @@
             {
                 "trackNumber": 11,
                 "trackName": "Forever & Always",
+                "trackLength_S": 225,
                 "lyrics": [
                     "Once upon a time",
                     "I believe it was a Tuesday when I caught your eye",
@@ -1217,7 +1242,7 @@
                 ]
             },
             {
-                "trackNumber": 12,
+                "trackNumber": 245,
                 "trackName": "The Best Day",
                 "lyrics": [
                     "I'm five years old, it's getting cold, I've got my big coat on",
@@ -1259,6 +1284,7 @@
             {
                 "trackNumber": 13,
                 "trackName": "Change",
+                "trackLength_S": 281,
                 "lyrics": [
                     "And it's a sad picture, the final blow hits you",
                     "Somebody else gets what you wanted again and",
@@ -1308,6 +1334,7 @@
             {
                 "trackNumber": 1,
                 "trackName": "Mine",
+                "trackLength_S": 230,
                 "lyrics": [
                     "You were in college, working part-time, waiting tables",
                     "Left a small town and never looked back",
@@ -1366,6 +1393,7 @@
             {
                 "trackNumber": 2,
                 "trackName": "Sparks Fly",
+                "trackLength_S": 260,
                 "lyrics": [
                     "The way you move is like a full on rainstorm",
                     "And I'm a house of cards",
@@ -1420,6 +1448,7 @@
             {
                 "trackNumber": 3,
                 "trackName": "Back To December",
+                "trackLength_S": 293,
                 "lyrics": [
                     "I'm so glad you made time to see me",
                     "How's life, tell me, how's your family",
@@ -1475,6 +1504,7 @@
             {
                 "trackNumber": 4,
                 "trackName": "Speak Now",
+                "trackLength_S": 240,
                 "lyrics": [
                     "I am not the kind of girl",
                     "Who should be rudely barging in",
@@ -1552,6 +1582,7 @@
             {
                 "trackNumber": 5,
                 "trackName": "Dear John",
+                "trackLength_S": 403,
                 "lyrics": [
                     "Long were the nights when",
                     "My days once revolved around you",
@@ -1611,6 +1642,7 @@
             {
                 "trackNumber": 6,
                 "trackName": "Mean",
+                "trackLength_S": 237,
                 "lyrics": [
                     "You, with your words like knives",
                     "And swords and weapons that you use against me",
@@ -1671,6 +1703,7 @@
             {
                 "trackNumber": 7,
                 "trackName": "The Story Of Us",
+                "trackLength_S": 265,
                 "lyrics": [
                     "I used to think one day we'd tell the story of us",
                     "How we met",
@@ -1731,8 +1764,9 @@
             {
                 "trackNumber": 8,
                 "trackName": "Never Grow Up",
+                "trackLength_S": 290,
                 "lyrics": [
-                    "lmao i need to put lyrics here"
+                    "gotta add lyrics"
                 ]
             }
         ]
