@@ -1,10 +1,14 @@
 import React from 'react';
 import data from './taylorSwiftLyrics.json';
-import Header from '../shared/Header'
+import Header from '../shared/Header';
+import Selector from '../Selector';
 
 const Data = () => {
     return (
-        <Header title="Data" />
+        <>
+            <Header title="Data" />
+            <Selector />
+        </>
     );
 }
  

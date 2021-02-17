@@ -5,7 +5,7 @@
         "songs": [
             {
                 "trackNumber": 1,
-                "trackTitle": "Tim McGraw",
+                "trackName": "Tim McGraw",
                 "trackLength_S": 232,
                 "lyrics": [
                     "He said the way my blue eyes shined",
@@ -67,7 +67,7 @@
             },
             {
                 "trackNumber": 2,
-                "trackTitle": "Picture To Burn",
+                "trackName": "Picture To Burn",
                 "trackLength_S": 172,
                 "lyrics": [
                     "State the obvious, I didn't get my perfect fantasy",
@@ -124,7 +124,7 @@
             },
             {
                 "trackNumber": 3,
-                "trackTitle": "Teardrops On My Guitar",
+                "trackName": "Teardrops On My Guitar",
                 "trackLength_S": 203,
                 "lyrics": [
                     "Drew looks at me",
@@ -167,7 +167,7 @@
             },
             {
                 "trackNumber": 4,
-                "trackTitle": "A Place In This World",
+                "trackName": "A Place In This World",
                 "trackLength_S": 199,
                 "lyrics": [
                     "I don't know what I want, so don't ask me",
@@ -201,7 +201,7 @@
             },
             {
                 "trackNumber": 5,
-                "trackTitle": "Cold As You",
+                "trackName": "Cold As You",
                 "trackLength_S": 239,
                 "lyrics": [
                     "You have a way of coming easily to me",
@@ -232,7 +232,7 @@
             },
             {
                 "trackNumber": 6,
-                "trackTitle": "The Outside",
+                "trackName": "The Outside",
                 "trackLength_S": 207,
                 "lyrics": [
                     "I didn't know what I would find",
@@ -271,7 +271,7 @@
             },
             {
                 "trackNumber": 7,
-                "trackTitle": "Tied Together With A Smile",
+                "trackName": "Tied Together With A Smile",
                 "trackLength_S": 248,
                 "lyrics": [
                     "Seems the only one who doesn't see your beauty",
@@ -329,7 +329,7 @@
             },
             {
                 "trackNumber": 8,
-                "trackTitle": "Stay Beautiful",
+                "trackName": "Stay Beautiful",
                 "trackLength_S": 236,
                 "lyrics": [
                     "Cory's eyes are like a jungle",
@@ -391,7 +391,7 @@
             },
             {
                 "trackNumber": 9,
-                "trackTitle": "Should've Said No",
+                "trackName": "Should've Said No",
                 "trackLength_S": 242,
                 "lyrics": [
                     "It's strange to think the songs we used to sing",
@@ -439,7 +439,7 @@
             },
             {
                 "trackNumber": 10,
-                "trackTitle": "Mary's Song (Oh My My My)",
+                "trackName": "Mary's Song (Oh My My My)",
                 "trackLength_S": 213,
                 "lyrics": [
                     "She said, I was seven and you were nine",
@@ -484,7 +484,7 @@
             },
             {
                 "trackNumber": 11,
-                "trackTitle": "Our Song",
+                "trackName": "Our Song",
                 "trackLength_S": 201,
                 "lyrics": [
                     "I was riding shotgun with my hair undone",
@@ -540,7 +540,7 @@
             },
             {
                 "trackNumber": 12,
-                "trackTitle": "I'm Only Me When I'm With You",
+                "trackName": "I'm Only Me When I'm With You",
                 "trackLength_S": 213,
                 "lyrics": [
                     "Friday night beneath the stars",
@@ -588,7 +588,7 @@
             },
             {
                 "trackNumber": 13,
-                "trackTitle": "Invisible",
+                "trackName": "Invisible",
                 "trackLength_S": 203,
                 "lyrics": [
                     "She can't see the way your eyes",
@@ -640,7 +640,7 @@
             },
             {
                 "trackNumber": 14,
-                "trackTitle": "A Perfectly Good Heart",
+                "trackName": "A Perfectly Good Heart",
                 "trackLength_S": 220,
                 "lyrics": [
                     "Why would you wanna break a perfectly good heart?",
