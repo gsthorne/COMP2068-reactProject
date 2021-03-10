@@ -1096,7 +1096,7 @@
                 ]
             },
             {
-                "trackNumber": 261,
+                "trackNumber": 9,
                 "trackName": "You're Not Sorry",
                 "trackLength_S": 261,
                 "lyrics": [
@@ -1242,8 +1242,9 @@
                 ]
             },
             {
-                "trackNumber": 245,
+                "trackNumber": 12,
                 "trackName": "The Best Day",
+                "trackLength_S": 245,
                 "lyrics": [
                     "I'm five years old, it's getting cold, I've got my big coat on",
                     "I hear your laugh and look up smiling at you, I run and run",
